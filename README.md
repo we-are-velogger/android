@@ -23,3 +23,12 @@
 - [OOP(Object Oriented Programming)](https://velog.io/@tjrwns8024/OOPObject-Oriented-Programming)
 - OOP (객체지향 프로그래밍) 의 특징 4가지에 대한 글입니다. 
 - OOP (객체지향 프로그래밍) 의 5대 원칙도 함께 다루고 있습니다. 
+
+**Boiler Plate**
+- [Boiler Plate](https://velog.io/@tjrwns8024/Boilerplate-code-%EB%B3%B4%EC%9D%BC%EB%9F%AC-%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8-%EC%BD%94%EB%93%9C)
+- 보일러 플레이트에 대한 글을 작성해보았습니다. 
+
+**Android User Interface**
+- [Android User Inteface](https://velog.io/@tjrwns8024/Android-User-Interface%EA%B3%84%EC%B8%B5%EC%A0%81-%EA%B5%AC%EC%A1%B0)
+- 안드로이드에서 계층적 구조를 나타내는 사용자 인터페이스 화면에 대한 글을 작성해보았습니다. 
+- 학교 네트워크 시간에 공부한 내용을 토대로 작성한 글입니다. 
